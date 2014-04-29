@@ -10,7 +10,6 @@
 #import "NSFileManager+AWFindOrCreate.h"
 #import "AWFeedbackItem.h"
 #import "NSArray+FuzzySearching.h"
-#import "AWPreferences.h"
 #import "AWArgs.h"
 
 @interface AWWorkflow () <AWFuzzySearchingDelegate>
